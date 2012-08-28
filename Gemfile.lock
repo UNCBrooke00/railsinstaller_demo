@@ -104,7 +104,6 @@ PLATFORMS
   ruby
   x86-mingw32
 
-
 DEPENDENCIES
   coffee-rails (~> 3.2.1)
   jquery-rails
